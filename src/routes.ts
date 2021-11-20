@@ -1,5 +1,5 @@
 import {Router} from 'express'
-import { CreateInstanceController } from './controllers/account/CreateInstanceController'
+import { CreateInstanceController } from './controllers/instance/CreateInstanceController'
 
 const router = Router()
 
